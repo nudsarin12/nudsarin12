@@ -7,7 +7,7 @@ Front-End Developer
 I am studying the path of system development with HTML, CSS, JavaScript, Python, Node.js, MySQL, Angular, Java for 4 years at university and have an internship opportunity at JOS TECHNOLOGY CO., LTD., and looking for a Front-End Developer position where I learned about teamwork, organization and system analysis.
 
 * 🌍  I'm based in Maha Sarakham, Thailand
-* 🖥️  See my portfolio at [portfolio-websites-nudsarin.vercel.app]([http://www.portfolio-nudsarin.com](https://portfolio-websites-nudsarin.vercel.app/))
+* 🖥️  See my portfolio at [portfolio-websites-nudsarin.vercel.app](https://portfolio-websites-nudsarin.vercel.app/)
 * ✉️  You can contact me at [nuchning124@gmail.com](mailto:nuchning124@gmail.com)
 
 ### Skills
